@@ -1,7 +1,7 @@
 {
   "name": "bmi-calculator-react",
   "private": true,
-  "homepage": "https://github.com/pnwboon/bmi-calculator-react",
+  "homepage": "https://pnwboon.github.io/bmi-calculator-react/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
