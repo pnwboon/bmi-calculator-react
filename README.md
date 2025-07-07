@@ -4,6 +4,10 @@
 * มีข้อความแนะนำสุขภาพเบื้องต้น
 * รองรับการป้อนข้อมูลและล้างข้อมูล
 
+## ดูตัวอย่างการใช้งาน (Live Demo)
+**คุณสามารถลองใช้งานโปรแกรมคำนวณหาค่าดัชนีมวลกาย BMI:**
+<a href="https://pnwboon.github.io/bmi-calculator-react/" target="_blank" rel="noopener noreferrer">**คลิกเพื่อใช้งาน BMI Calculator**</a>
+
 ## ภาษาและเทคโนโลยีที่ใช้
 * **Frontend:** React (HTML, CSS, JavaScript)
 
